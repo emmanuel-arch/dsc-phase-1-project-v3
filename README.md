@@ -20,7 +20,7 @@ The dashboard includes several important visualizations, which help in understan
 - The primary dashboard (shown below) presents an interactive view where users can filter by **Aircraft Make**, **Accident Severity**, **Flight Phase**, and **Weather Condition**.
 - You can view the interactive dashboard by clicking the link below:
 
-[View Interactive Dashboard](./interactive_dashboard.html)
+[View Interactive Dashboard](https://emmanuel-arch.github.io/dsc-phase-1-project-v3/)
 
 ### 2. **Top 5 Airplane Makes with the Highest Number of Accidents**
 - This visualization shows which aircraft makes are involved in the highest number of accidents. It helps stakeholders identify the makes that pose higher risks in terms of accident frequency.
