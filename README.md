@@ -18,7 +18,7 @@ The dashboard includes several important visualizations, which help in understan
 
 ### 1. **Interactive Dashboard**
 - The primary dashboard (shown below) presents an interactive view where users can filter by **Aircraft Make**, **Accident Severity**, **Flight Phase**, and **Weather Condition**.
-- You can view the interactive dashboard by clicking the link below:
+- You can view the interactive dashboard by clicking the link below which will redirect you to Github Pages:
 
 [View Interactive Dashboard](https://emmanuel-arch.github.io/dsc-phase-1-project-v3/)
 
