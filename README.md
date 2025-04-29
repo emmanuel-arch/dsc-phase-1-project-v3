@@ -22,31 +22,31 @@ The dashboard includes several important visualizations, which help in understan
 
 ### 2. **Top 5 Airplane Makes with the Highest Number of Accidents**
 - This visualization shows which aircraft makes are involved in the highest number of accidents. It helps stakeholders identify the makes that pose higher risks in terms of accident frequency.
-- ![Top 5 Airplane Makes with the Highest Number of Accidents](images/Top5B.png)
+- ![Top 5 Airplane Makes with the Highest Number of Accidents](IMAGES/Top5B.png)
 
 ### 3. **Bottom 5 Airplane Makes with the Lowest Number of Accidents**
 - Here, we highlight the makes with the fewest accidents, providing potential safer options for the company’s fleet.
-- ![Bottom 5 Airplane Makes with the Lowest Number of Accidents](images/Bottom5.png)
+- ![Bottom 5 Airplane Makes with the Lowest Number of Accidents](IMAGES/Bottom5.png)
 
 ### 4. **Top 5 Airplane Makes with the Highest Accident Severity**
 - This visualization provides insights into the aircraft makes that have the highest severity in accidents, focusing on fatalities and serious injuries. This is crucial for identifying aircraft that may require more stringent safety measures.
-- ![Top 5 Airplane Makes with the Highest Accident Severity](images/Top5A.png)
+- ![Top 5 Airplane Makes with the Highest Accident Severity](IMAGES/Top5A.png)
 
 ### 5. **Accident Severity by Phase of Flight**
 - This chart shows the **proportion of fatalities** by flight phase (e.g., Takeoff, Cruise, Approach). It helps in understanding which phases of flight are most dangerous and should be closely monitored.
-- ![Accident Severity by Phase of Flight](images/ASPF.png)
+- ![Accident Severity by Phase of Flight](IMAGES/ASPF.png)
 
 ### 6. **Accident Severity by Weather Condition**
 - The weather can have a significant impact on the severity of aviation accidents. This visualization shows how different weather conditions contribute to the severity of accidents.
-- ![Accident Severity by Weather Condition](images/ASWC.png)
+- ![Accident Severity by Weather Condition](IMAGES/ASWC.png)
 
 ### 7. **Accident Severity by Aircraft Type**
 - This chart shows the severity of accidents for different types of aircraft, helping the company assess which aircraft categories pose higher risks.
-- ![Accident Severity by Aircraft Type](images/Severity.png)
+- ![Accident Severity by Aircraft Type](IMAGES/Severity.png)
 
 ### 8. **Number of Accidents by Aircraft Type**
 - This visualization displays the frequency of accidents by aircraft type, allowing users to understand which types of aircraft are involved in the most incidents.
-- ![Number of Accidents by Aircraft Type](images/Accidents.png)
+- ![Number of Accidents by Aircraft Type](IMAGES/Accidents.png)
 
 ## Recommendations Based on Analysis
 
@@ -84,8 +84,7 @@ This analysis is based on the **aviation accident dataset** sourced from the **N
 
 For more information or further inquiries, feel free to reach out to me:
 
-- [LinkedIn Profile](#)
-- [Email Address](#)
+- [kipletinge123@gmail.com](#)
 
 ---
 
